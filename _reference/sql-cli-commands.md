@@ -314,7 +314,7 @@ nickname';</code></p>
    </tr>
    <tr>
       <td>
-         <p><code>ALTER TABLE &lt;table&gt; DROP CONSTRAINT PRIMARY KEY;</code></p>
+         <p><code>ALTER TABLE &lt;table&gt; ADD|DROP CONSTRAINT PRIMARY KEY;</code></p>
       </td>
       <td>
         <p> Drops the primary key from a table.</p>
